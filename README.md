@@ -17,7 +17,7 @@
 ## 🚀 Pokretanje aplikacije
 
 1. **Kloniranje repozitorijuma**
-
+   
    ```bash
   git clone https://github.com/JelenaLaketa/TennisClub.git
   
