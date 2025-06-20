@@ -18,8 +18,7 @@
 
 1. **Kloniranje repozitorijuma**
    
-   ```bash
-  git clone https://github.com/JelenaLaketa/TennisClub.git
+   ```bash git clone https://github.com/JelenaLaketa/TennisClub.git ```
   
 2. **Navigiranje kroz folder TennisClub**
    
